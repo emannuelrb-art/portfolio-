@@ -1,6 +1,6 @@
-  # Portfólio — [Seu Nome]
+  # Portfólio — emannuel Rufino
 
-  Repositório com projetos acadêmicos e pessoais desenvolvidos durante o curso de [Seu Curso].
+  Repositório com projetos acadêmicos e pessoais desenvolvidos durante o curso de eng.soft.
 
   ## Estrutura
 
