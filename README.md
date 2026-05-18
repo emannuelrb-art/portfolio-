@@ -1,4 +1,4 @@
-  # Portfólio — emannuel Rufino
+  # Portfólio — Emannuel Rufino
 
   Repositório com projetos acadêmicos e pessoais desenvolvidos durante o curso de eng.soft.
 
