@@ -15,4 +15,4 @@
 
   ## Contato
 
-  - GitHub: [seu-usuario](https://github.com/emannuelrb-art)
+  - GitHub:(https://github.com/emannuelrb-art)
